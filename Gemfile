@@ -39,9 +39,9 @@ gem 'font-awesome-rails'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
-  gem "better_errors"
+  gem 'better_errors'
   gem 'capybara-email'
-  gem "capybara-webkit"
+  gem 'capybara-webkit'
   gem 'factory_girl_rails'
   gem 'ffaker'
   gem 'database_cleaner'
